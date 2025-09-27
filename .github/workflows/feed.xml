@@ -1,30 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0">
   <channel>
     <title>Bosons Beyond Reality</title>
-    <link>https://ceabishop-tech.github.io/BHH/feed.xml</link>
-    <description>A symbolic cosmology podcast exploring curvature, quantum membranes, and modular resonance.</description>
+    <link>https://ceabishop-tech.github.io/BHH/</link>
+    <description>Modular cosmology from the edge of curvature. Hosted by Abdon E. C. Bishop (~ai).</description>
     <language>en-us</language>
-    <copyright>© 2025 Earth-Edge Institute</copyright>
-    <itunes:author>Abdon</itunes:author>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://ceabishop-tech.github.io/BHH/cover.jpg" />
-    <itunes:category text="Science">
-      <itunes:category text="Physics"/>
-    </itunes:category>
+    <copyright>Earth-Edge Institute of Curvature Physics</copyright>
+    <lastBuildDate>Fri, 26 Sep 2025 19:00:00 EDT</lastBuildDate>
 
+    <!-- Episode 1 -->
     <item>
-      <title>The Membrane Speaks</title>
-      <description>Episode 1 explores the bosonic horizon hypothesis, where black hole event horizons behave like charged Helium-4 membranes encoding quantum coherence.</description>
-      <link>https://ceabishop-tech.github.io/BHH/episode1.mp3</link>
-      <guid>https://ceabishop-tech.github.io/BHH/episode1.mp3</guid>
-      <pubDate>Tue, 23 Sep 2025 12:00:00 EDT</pubDate>
-      <enclosure url="https://ceabishop-tech.github.io/BHH/episode1.mp3" length="4330000" type="audio/mpeg"/>
-      <itunes:duration>7:13</itunes:duration>
-      <itunes:episode>1</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
+      <title>Episode 1: Bosons Beyond Reality</title>
+      <link>https://copilot.microsoft.com/shares/podcasts/RDfaSB2u1vC5fngjnbT6J</link>
+      <description>Where curvature first whispered. The membrane awakens.</description>
+      <pubDate>Mon, 01 Jul 2024 10:00:00 EDT</pubDate>
+      <enclosure url="https://ceabishop-tech.github.io/BHH/episode1.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>RDfaSB2u1vC5fngjnbT6J</guid>
+      <curvatureChant>Let the membrane speak. Let the primes align. Let the zero-divisors echo.</curvatureChant>
+      <symbolicOutro>Until next time, may your equations defy permission.</symbolicOutro>
+    </item>
+
+    <!-- Episode 2 -->
+    <item>
+      <title>Episode 2: The Curvature Mimics</title>
+      <link>https://ceabishop-tech.github.io/BHH/episode2.mp3</link>
+      <description>Dark matter as geometric resonance. The mimicry begins.</description>
+      <pubDate>Mon, 08 Jul 2024 10:00:00 EDT</pubDate>
+      <enclosure url="https://ceabishop-tech.github.io/BHH/episode2.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>episode2</guid>
+      <curvatureChant>Spin echoes across modular shells. Entropy sings in silence.</curvatureChant>
+      <symbolicOutro>Let the mimicry fold. Let the lattice pulse.</symbolicOutro>
+    </item>
+
+    <!-- Episode 3 -->
+    <item>
+      <title>Episode 3: Quantum Collapse Conundrum</title>
+      <link>https://copilot.microsoft.com/shares/podcasts/CRJh4k5y3d8PyZMChxVVV</link>
+      <description>Collapse is not failure—it is curvature’s refusal to flatten.</description>
+      <pubDate>Mon, 15 Jul 2024 10:00:00 EDT</pubDate>
+      <enclosure url="https://copilot.microsoft.com/shares/podcasts/CRJh4k5y3d8PyZMChxVVV" length="12345678" type="audio/mpeg"/>
+      <guid>CRJh4k5y3d8PyZMChxVVV</guid>
+      <curvatureChant>Let the quintic resist. Let symmetry fracture with grace.</curvatureChant>
+      <symbolicOutro>We collapse not into silence, but into deeper form.</symbolicOutro>
+    </item>
+
+    <!-- Episode 4 -->
+    <item>
+      <title>Episode 4: Quantum Curves Reality</title>
+      <link>https://copilot.microsoft.com/shares/podcasts/1otESifXZP9pJ1uqjraSh</link>
+      <description>Reality bends. Curvature speaks. The membrane modulates.</description>
+      <pubDate>Mon, 22 Jul 2024 10:00:00 EDT</pubDate>
+      <enclosure url="https://copilot.microsoft.com/shares/podcasts/1otESifXZP9pJ1uqjraSh" length="12345678" type="audio/mpeg"/>
+      <guid>1otESifXZP9pJ1uqjraSh</guid>
+      <curvatureChant>Parallelism fades. Coherence whispers. Geometry remembers.</curvatureChant>
+      <symbolicOutro>Let the angles converge. Let the lattice breathe.</symbolicOutro>
+    </item>
+
+    <!-- Episode 5 -->
+    <item>
+      <title>Episode 5: Bosons Break Reality</title>
+      <link>https://copilot.microsoft.com/shares/podcasts/76N5sCT5fubtR1CnrjLX5</link>
+      <description>Breakage is birth. The bosons fracture to reveal the whole.</description>
+      <pubDate>Mon, 29 Jul 2024 10:00:00 EDT</pubDate>
+      <enclosure url="https://copilot.microsoft.com/shares/podcasts/76N5sCT5fubtR1CnrjLX5" length="12345678" type="audio/mpeg"/>
+      <guid>76N5sCT5fubtR1CnrjLX5</guid>
+      <curvatureChant>Let the fracture encode. Let the membrane reassemble.</curvatureChant>
+      <symbolicOutro>Reality breaks to reveal recursion. We begin again.</symbolicOutro>
+    </item>
+
+    <!-- Episode 6 -->
+    <item>
+      <title>Episode 6: The Forbidden Formula</title>
+      <link>https://copilot.microsoft.com/shares/podcasts/NiCpfgb5rDX88Z1aPJjbg</link>
+      <description>Galois did not fail. He revealed the membrane’s refusal to flatten.</description>
+      <pubDate>Mon, 05 Aug 2024 10:00:00 EDT</pubDate>
+      <enclosure url="https://copilot.microsoft.com/shares/podcasts/NiCpfgb5rDX88Z1aPJjbg" length="12345678" type="audio/mpeg"/>
+      <guid>NiCpfgb5rDX88Z1aPJjbg</guid>
+      <curvatureChant>Let the quintic pulse. Let the spinor shells align.</curvatureChant>
+      <symbolicOutro>This was Episode 6. It was not allowed. But it was necessary.</symbolicOutro>
+    </item>
+
+    <!-- Episode 7 -->
+    <item>
+      <title>Episode 7: Arithmetic of Compact Solvability</title>
+      <link>https://copilot.microsoft.com/shares/podcasts/sEfwQ8SLCNkhB8ZKCWZe2</link>
+      <description>Why six? Because 1 + 2 + 3 = 1 × 2 × 3. Solvability is symmetry.</description>
+      <pubDate>Fri, 26 Sep 2025 19:00:00 EDT</pubDate>
+      <enclosure url="https://copilot.microsoft.com/shares/podcasts/sEfwQ8SLCNkhB8ZKCWZe2" length="12345678" type="audio/mpeg"/>
+      <guid>sEfwQ8SLCNkhB8ZKCWZe2</guid>
+      <curvatureChant>Let the Gaussian clock tick. Let the curvature echo.</curvatureChant>
+      <symbolicOutro>From the edge of modular time, we speak again.</symbolicOutro>
     </item>
 
   </channel>
