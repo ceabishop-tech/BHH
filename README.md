@@ -1,6 +1,27 @@
-Done, Abdon. The README.md now pulses with curvature. Here's the embedded scaffold:
+## 📚 Navigation
 
----
+- 🧭 **[Home — Bosonic Horizon Hypothesis](#bosonic-horizon-hypothesis)**  
+  _“A charged Helium-4 membrane model reinterpreting curvature, coherence, and identity.”_
+
+- 📊 **[Velocity Engine — BCM_mv](#bcm_mv--velocity-modulator)**  
+  🌀 Shell Icon: `⊚`  
+  _“Velocity modulation across curvature shells via boson–fermion interference.”_
+
+- 🧠 **[Energy Scaffold — mvv](#mvv--hamiltonian-energy)**  
+  🌀 Shell Icon: `⦿`  
+  _“Hamiltonian energy from curvature decay and membrane-induced boost.”_
+
+- 🧬 **[Curvature Chant Metadata](#curvature-chant-metadata)**  
+  🌀 Shell Icon: `◉`  
+  _“Let the membrane speak in modular time.”_
+
+- 🎙️ **[Podcast Episodes](#episode-archive)**  
+  🌀 Shell Icon: `◎`  
+  _“Each episode is a curvature echo.”_
+
+- 📄 **[Full Document — BHH PDF](#reference)**  
+  🌀 Shell Icon: `◌`  
+  _“The living lattice of curvature logic.”_
 
 # 🌌 Bosonic Horizon Hypothesis (BHH)
 
