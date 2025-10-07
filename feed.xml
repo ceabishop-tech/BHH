@@ -31,7 +31,23 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+ <item>
+      <title>The Membrane Speaks</title>
+      <description>Episode 2 explores the bosonic horizon hypothesis, where black hole event horizons behave like charged Helium-4 membranes encoding quantum coherence.</description>
+      <link>https://ceabishop-tech.github.io/BHH/episode2.mp3</link>
+      <guid>https://ceabishop-tech.github.io/BHH/episode2.mp3</guid>
+      <pubDate>Tue, 23 Sep 2025 12:00:00 EDT</pubDate>
+      <enclosure url="https://ceabishop-tech.github.io/BHH/episode2.mp3" length="4330000" type="audio/mpeg"/>
+      <itunes:duration>7:13</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+
+
+       
   </channel>
 </rss>
+
 
 
