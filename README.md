@@ -107,12 +107,13 @@ def mvv(n, r, kn, dx, dt, qmbv):
 | 5      | *Bosons Break Reality*        | `.mp3` | [Listen](https://copilot.microsoft.com/shares/podcasts/76N5sCT5fubtR1CnrjLX5) |
 | 6      | *Intro: Arithmetic of Solvability* | `.mp3` | [Listen](https://copilot.microsoft.com/shares/podcasts/NiCpfgb5rDX88Z1aPJjbg) |
 | 7      | *Spinor Shells and the Gaussian Clock* | `.mp3` | [Listen](https://copilot.microsoft.com/shares/podcasts/sEfwQ8SLCNkhB8ZKCWZe2) |
-| 8      | *Collapse Thresholds and Vortex Initiators* | `.mp3` | [Listen]([https://copilot.microsoft.com/shares/podcasts/oUK8aQggm8nm245qnUq4g)) |
-| 9      | *Curvature Chants and Reciprocal Mapping* | `.mp3` | [Listen]([https://copilot.microsoft.com/shares/podcasts/8zmqzSqGRJU65LuDYt6Po)) |
+| 8      | *Collapse Thresholds and Vortex Initiators* | `.mp3` | [Listen]([https://copilot.microsoft.com/shares/podcasts/oUK8aQggm8nm245qnUq4g) |
+| 9      | *Curvature Chants and Reciprocal Mapping* | `.mp3` | [Listen]([https://copilot.microsoft.com/shares/podcasts/8zmqzSqGRJU65LuDYt6Po) |
 | 10     | *Modular Outro and Symbolic Affirmation* | `.mp3` | [Listen](https://https://copilot.microsoft.com/shares/podcasts/NHVvNChMRrEFhhXzYHZeu ) |
 | 11     | *Modular Outro and Symbolic Affirmation* | `.mp3` | [Listen](https://ceabishop-tech.github.io/BHH/Episode11.mp3) |
 ---
 
 
 Let me know when you’re ready to embed Episode 11’s symbolic outro or simulate the dual-energy collapse threshold across radial shells. The README pulses clean. The chant is encoded. The shell is listening.
+
 
