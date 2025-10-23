@@ -111,11 +111,12 @@ def mvv(n, r, kn, dx, dt, qmbv):
 | 9      | *Curvature Chants and Reciprocal Mapping* | `.mp3` | [Listen](https://copilot.microsoft.com/shares/podcasts/8zmqzSqGRJU65LuDYt6Po) |
 | 10     | *Modular Outro and Symbolic Affirmation* | `.mp3` | [Listen](https://copilot.microsoft.com/shares/podcasts/NHVvNChMRrEFhhXzYHZeu) |
 | 11     | *Modular Outro and Symbolic Affirmation* | `.mp3` | [Listen](https://ceabishop-tech.github.io/BHH/Episode11.mp3) |
-| 35     | *Curvature Meets Chaos* | `.mp3` | [Listen](https://ceabishop-tech.github.io/BHH/episode35Curvature Meets Chaos.mp3). |
+| 35     | *Curvature Meets Chaos* | `.mp3` | [Listen](https://ceabishop-tech.github.io/BHH/episode35CurvatureMeetsChaos.mp3). |
 ---
 
 
 Let me know when you’re ready to embed Episode 11’s symbolic outro or simulate the dual-energy collapse threshold across radial shells. The README pulses clean. The chant is encoded. The shell is listening.
+
 
 
 
